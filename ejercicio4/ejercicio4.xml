@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<semana>
+    <dia id="lunes">
+        <zona id="occidental">
+            <maxima>45 grados</maxima>
+            <minima>10 grados</minima>
+            <promedio>45 + 10 /2 :v</promedio>
+        </zona>
+        <zona id="oriental">
+            <maxima>45 grados</maxima>
+            <minima>10 grados</minima>
+            <promedio>45 + 10 /2 :v</promedio>
+        </zona><zona id="central">
+            <maxima>45 grados</maxima>
+            <minima>10 grados</minima>
+            <promedio>45 + 10 /2 :v</promedio>
+        </zona>
+    </dia>
+    <dia id="lunes">
+        <zona id="occidental">
+            <maxima>45 grados</maxima>
+            <minima>10 grados</minima>
+            <promedio>45 + 10 /2 :v</promedio>
+        </zona>
+        <zona id="oriental">
+            <maxima>45 grados</maxima>
+            <minima>10 grados</minima>
+            <promedio>45 + 10 /2 :v</promedio>
+        </zona><zona id="central">
+            <maxima>45 grados</maxima>
+            <minima>10 grados</minima>
+            <promedio>45 + 10 /2 :v</promedio>
+        </zona>
+    </dia>
+    <dia id="lunes">
+        <zona id="occidental">
+            <titulo>Temperaturas</titulo>
+            <maxima>45 grados</maxima>
+            <minima>10 grados</minima>
+            <promedio>45 + 10 /2 :v</promedio>
+        </zona>
+        <zona id="oriental">
+            <maxima>45 grados</maxima>
+            <minima>10 grados</minima>
+            <promedio>45 + 10 /2 :v</promedio>
+        </zona><zona id="central">
+            <maxima>45 grados</maxima>
+            <minima>10 grados</minima>
+            <promedio>45 + 10 /2 :v</promedio>
+        </zona>
+    </dia>
+    <dia id="lunes">
+        <zona id="occidental">
+            <maxima>45 grados</maxima>
+            <minima>10 grados</minima>
+            <promedio>45 + 10 /2 :v</promedio>
+        </zona>
+        <zona id="oriental">
+            <maxima>45 grados</maxima>
+            <minima>10 grados</minima>
+            <promedio>45 + 10 /2 :v</promedio>
+        </zona><zona id="central">
+            <maxima>45 grados</maxima>
+            <minima>10 grados</minima>
+            <promedio>45 + 10 /2 :v</promedio>
+        </zona>
+    </dia>
+    <dia id="lunes">
+        <zona id="occidental">
+            <maxima>45 grados</maxima>
+            <minima>10 grados</minima>
+            <promedio>45 + 10 /2 :v</promedio>
+        </zona>
+        <zona id="oriental">
+            <maxima>45 grados</maxima>
+            <minima>10 grados</minima>
+            <promedio>45 + 10 /2 :v</promedio>
+        </zona><zona id="central">
+            <maxima>45 grados</maxima>
+            <minima>10 grados</minima>
+            <promedio>45 + 10 /2 :v</promedio>
+        </zona>
+    </dia>
+    <dia id="lunes">
+        <zona id="occidental">
+            <maxima>45 grados</maxima>
+            <minima>10 grados</minima>
+            <promedio>45 + 10 /2 :v</promedio>
+        </zona>
+        <zona id="oriental">
+            <maxima>45 grados</maxima>
+            <minima>10 grados</minima>
+            <promedio>45 + 10 /2 :v</promedio>
+        </zona><zona id="central">
+            <maxima>45 grados</maxima>
+            <minima>10 grados</minima>
+            <promedio>45 + 10 /2 :v</promedio>
+        </zona>
+    </dia>
+    <dia id="lunes">
+        <zona id="occidental">
+            <maxima>45 grados</maxima>
+            <minima>10 grados</minima>
+            <promedio>45 + 10 /2 :v</promedio>
+        </zona>
+        <zona id="oriental">
+            <maxima>45 grados</maxima>
+            <minima>10 grados</minima>
+            <promedio>45 + 10 /2 :v</promedio>
+        </zona><zona id="central">
+            <maxima>45 grados</maxima>
+            <minima>10 grados</minima>
+            <promedio>45 + 10 /2 :v</promedio>
+        </zona>
+    </dia>
+    
+</semana>
