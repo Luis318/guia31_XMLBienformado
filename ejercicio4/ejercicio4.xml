@@ -1,120 +1,121 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <?xml-stylesheet type="text/css" href="/estilos/ejercicio4.css" ?>
 
-<semana>
-    <inicio>5/09/21</inicio>
-    <fin>12/09/21</fin>
-    <dia id="lunes">
-        <zona id="occidental">
-            <maxima>45 grados</maxima>
-            <minima>10 grados</minima>
-            <promedio>45 + 10 /2 :v</promedio>
+<semana>SEMANA
+    
+    <dia id="lunes">Lunes
+        
+        <zona id="occidental">Occidental
+            
+            <temperaturaMaxima>45º</temperaturaMaxima>
+            <temperaturaMinima>10 º</temperaturaMinima>
+            <temperaturaPromedio>0º</temperaturaPromedio>
         </zona>
-        <zona id="oriental">
-            <maxima>45 grados</maxima>
-            <minima>10 grados</minima>
-            <promedio>45 + 10 /2 :v</promedio>
-        </zona><zona id="central">
-            <maxima>45 grados</maxima>
-            <minima>10 grados</minima>
-            <promedio>45 + 10 /2 :v</promedio>
-        </zona>
-    </dia>
-    <dia id="martes">
-        <zona id="occidental">
-            <maxima>45 grados</maxima>
-            <minima>10 grados</minima>
-            <promedio>45 + 10 /2 :v</promedio>
-        </zona>
-        <zona id="oriental">
-            <maxima>45 grados</maxima>
-            <minima>10 grados</minima>
-            <promedio>45 + 10 /2 :v</promedio>
-        </zona><zona id="central">
-            <maxima>45 grados</maxima>
-            <minima>10 grados</minima>
-            <promedio>45 + 10 /2 :v</promedio>
+        <zona id="oriental">Oriental
+            <temperaturaMaxima>45 º</temperaturaMaxima>
+            <temperaturaMinima>10 º</temperaturaMinima>
+            <temperaturaPromedio>0º</temperaturaPromedio>
+        </zona><zona id="central">Central
+            <temperaturaMaxima>45 º</temperaturaMaxima>
+            <temperaturaMinima>10 º</temperaturaMinima>
+            <temperaturaPromedio>0º</temperaturaPromedio>
         </zona>
     </dia>
-    <dia id="miercoles">
-        <zona id="occidental">
-            <titulo>Temperaturas</titulo>
-            <maxima>45 grados</maxima>
-            <minima>10 grados</minima>
-            <promedio>45 + 10 /2 :v</promedio>
+    <dia id="martes">Martes
+        <zona id="occidental">Occidental
+            <temperaturaMaxima>45 º</temperaturaMaxima>
+            <temperaturaMinima>10 º</temperaturaMinima>
+            <temperaturaPromedio>0º</temperaturaPromedio>
         </zona>
-        <zona id="oriental">
-            <maxima>45 grados</maxima>
-            <minima>10 grados</minima>
-            <promedio>45 + 10 /2 :v</promedio>
-        </zona><zona id="central">
-            <maxima>45 grados</maxima>
-            <minima>10 grados</minima>
-            <promedio>45 + 10 /2 :v</promedio>
-        </zona>
-    </dia>
-    <dia id="jueves">
-        <zona id="occidental">
-            <maxima>45 grados</maxima>
-            <minima>10 grados</minima>
-            <promedio>45 + 10 /2 :v</promedio>
-        </zona>
-        <zona id="oriental">
-            <maxima>45 grados</maxima>
-            <minima>10 grados</minima>
-            <promedio>45 + 10 /2 :v</promedio>
-        </zona><zona id="central">
-            <maxima>45 grados</maxima>
-            <minima>10 grados</minima>
-            <promedio>45 + 10 /2 :v</promedio>
+        <zona id="oriental">Oriental
+            <temperaturaMaxima>45 º</temperaturaMaxima>
+            <temperaturaMinima>10 º</temperaturaMinima>
+            <temperaturaPromedio>0º</temperaturaPromedio>
+        </zona><zona id="central">Central
+            <temperaturaMaxima>45 º</temperaturaMaxima>
+            <temperaturaMinima>10 º</temperaturaMinima>
+            <temperaturaPromedio>0º</temperaturaPromedio>
         </zona>
     </dia>
-    <dia id="viernes">
-        <zona id="occidental">
-            <maxima>45 grados</maxima>
-            <minima>10 grados</minima>
-            <promedio>45 + 10 /2 :v</promedio>
+    <dia id="miercoles">Miercoles
+        <zona id="occidental">Occidental
+            
+            <temperaturaMaxima>45 º</temperaturaMaxima>
+            <temperaturaMinima>10 º</temperaturaMinima>
+            <temperaturaPromedio>0º</temperaturaPromedio>
         </zona>
-        <zona id="oriental">
-            <maxima>45 grados</maxima>
-            <minima>10 grados</minima>
-            <promedio>45 + 10 /2 :v</promedio>
-        </zona><zona id="central">
-            <maxima>45 grados</maxima>
-            <minima>10 grados</minima>
-            <promedio>45 + 10 /2 :v</promedio>
-        </zona>
-    </dia>
-    <dia id="sabado">
-        <zona id="occidental">
-            <maxima>45 grados</maxima>
-            <minima>10 grados</minima>
-            <promedio>45 + 10 /2 :v</promedio>
-        </zona>
-        <zona id="oriental">
-            <maxima>45 grados</maxima>
-            <minima>10 grados</minima>
-            <promedio>45 + 10 /2 :v</promedio>
-        </zona><zona id="central">
-            <maxima>45 grados</maxima>
-            <minima>10 grados</minima>
-            <promedio>45 + 10 /2 :v</promedio>
+        <zona id="oriental">Oriental
+            <temperaturaMaxima>45 º</temperaturaMaxima>
+            <temperaturaMinima>10 º</temperaturaMinima>
+            <temperaturaPromedio>0º</temperaturaPromedio>
+        </zona><zona id="central">Central
+            <temperaturaMaxima>45 º</temperaturaMaxima>
+            <temperaturaMinima>10 º</temperaturaMinima>
+            <temperaturaPromedio>0º</temperaturaPromedio>
         </zona>
     </dia>
-    <dia id="domingo">
-        <zona id="occidental">
-            <maxima>45 grados</maxima>
-            <minima>10 grados</minima>
-            <promedio>45 + 10 /2 :v</promedio>
+    <dia id="jueves">Jueves
+        <zona id="occidental">Occiental
+            <temperaturaMaxima>45 º</temperaturaMaxima>
+            <temperaturaMinima>10 º</temperaturaMinima>
+            <temperaturaPromedio>0º</temperaturaPromedio>
         </zona>
-        <zona id="oriental">
-            <maxima>45 grados</maxima>
-            <minima>10 grados</minima>
-            <promedio>45 + 10 /2 :v</promedio>
-        </zona><zona id="central">
-            <maxima>45 grados</maxima>
-            <minima>10 grados</minima>
-            <promedio>45 + 10 /2 :v</promedio>
+        <zona id="oriental">Oriental
+            <temperaturaMaxima>45 º</temperaturaMaxima>
+            <temperaturaMinima>10 º</temperaturaMinima>
+            <temperaturaPromedio>0º</temperaturaPromedio>
+        </zona><zona id="central">Central
+            <temperaturaMaxima>45 º</temperaturaMaxima>
+            <temperaturaMinima>10 º</temperaturaMinima>
+            <temperaturaPromedio>0º</temperaturaPromedio>
+        </zona>
+    </dia>
+    <dia id="viernes">Viernes
+        <zona id="occidental">Occidental
+            <temperaturaMaxima>45 º</temperaturaMaxima>
+            <temperaturaMinima>10 º</temperaturaMinima>
+            <temperaturaPromedio>0º</temperaturaPromedio>
+        </zona>
+        <zona id="oriental">Oriental
+            <temperaturaMaxima>45 º</temperaturaMaxima>
+            <temperaturaMinima>10 º</temperaturaMinima>
+            <temperaturaPromedio>0º</temperaturaPromedio>
+        </zona><zona id="central">Central
+            <temperaturaMaxima>45 º</temperaturaMaxima>
+            <temperaturaMinima>10 º</temperaturaMinima>
+            <temperaturaPromedio>0º</temperaturaPromedio>
+        </zona>
+    </dia>
+    <dia id="sabado">Sabado
+        <zona id="occidental">Occidental
+            <temperaturaMaxima>45 º</temperaturaMaxima>
+            <temperaturaMinima>10 º</temperaturaMinima>
+            <temperaturaPromedio>0º</temperaturaPromedio>
+        </zona>
+        <zona id="oriental">Oriental
+            <temperaturaMaxima>45 º</temperaturaMaxima>
+            <temperaturaMinima>10 º</temperaturaMinima>
+            <temperaturaPromedio>0º</temperaturaPromedio>
+        </zona><zona id="central">Central
+            <temperaturaMaxima>45 º</temperaturaMaxima>
+            <temperaturaMinima>10 º</temperaturaMinima>
+            <temperaturaPromedio>0º</temperaturaPromedio>
+        </zona>
+    </dia>
+    <dia id="domingo">Domingo
+        <zona id="occidental">Occidental
+            <temperaturaMaxima>45 º</temperaturaMaxima>
+            <temperaturaMinima>10 º</temperaturaMinima>
+            <temperaturaPromedio>0º</temperaturaPromedio>
+        </zona>
+        <zona id="oriental">Oriental
+            <temperaturaMaxima>45 º</temperaturaMaxima>
+            <temperaturaMinima>10 º</temperaturaMinima>
+            <temperaturaPromedio>0º</temperaturaPromedio>
+        </zona><zona id="central">Central
+            <temperaturaMaxima>45 º</temperaturaMaxima>
+            <temperaturaMinima>10 º</temperaturaMinima>
+            <temperaturaPromedio>0º</temperaturaPromedio>
         </zona>
     </dia>
     

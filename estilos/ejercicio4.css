@@ -2,20 +2,35 @@ semana {
     background: rgb(245, 248, 245);
 }
 
-maxima {
+temperaturaMaxima {
     color: rgb(80, 6, 6);
     font-size: 20px;
     display: block;
 }
 
-minima {
+temperaturaMinima {
     color: rgb(31, 14, 94);
     font-size: 20px;
     display: block;
 }
 
-promedio {
+temperaturaPromedio {
     color: rgb(3, 3, 3);
     font-size: 20px;
+    display: block;
+}
+zona{
+    color: rgb(18, 204, 64);
+    font-size: 20px;
+    display: block;
+}
+dia{
+    color: rgb(10, 10, 10);
+    font-size: 30px;
+    display: block;
+}
+semana{
+    color: rgb(87, 7, 7);
+    font-size: 50px;
     display: block;
 }
