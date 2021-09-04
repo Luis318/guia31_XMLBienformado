@@ -1,0 +1,19 @@
+semana {
+    background: rgb(166, 228, 166);
+}
+
+maximo {
+    background-color: blue;
+    display: block;
+}
+
+minimo {
+    background-color: red;
+    display: block;
+}
+
+promedio {
+    color: yellow;
+    font-size: 20px;
+    display: block;
+}
