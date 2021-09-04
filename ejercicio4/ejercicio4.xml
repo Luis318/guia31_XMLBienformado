@@ -2,6 +2,8 @@
 <?xml-stylesheet type="text/css" href="/estilos/ejercicio4.css" ?>
 
 <semana>
+    <inicio>5/09/21</inicio>
+    <fin>12/09/21</fin>
     <dia id="lunes">
         <zona id="occidental">
             <maxima>45 grados</maxima>
