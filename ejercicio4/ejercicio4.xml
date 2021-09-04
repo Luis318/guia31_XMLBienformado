@@ -17,7 +17,7 @@
             <promedio>45 + 10 /2 :v</promedio>
         </zona>
     </dia>
-    <dia id="lunes">
+    <dia id="martes">
         <zona id="occidental">
             <maxima>45 grados</maxima>
             <minima>10 grados</minima>
@@ -33,7 +33,7 @@
             <promedio>45 + 10 /2 :v</promedio>
         </zona>
     </dia>
-    <dia id="lunes">
+    <dia id="miercoles">
         <zona id="occidental">
             <titulo>Temperaturas</titulo>
             <maxima>45 grados</maxima>
@@ -50,7 +50,7 @@
             <promedio>45 + 10 /2 :v</promedio>
         </zona>
     </dia>
-    <dia id="lunes">
+    <dia id="jueves">
         <zona id="occidental">
             <maxima>45 grados</maxima>
             <minima>10 grados</minima>
@@ -66,7 +66,7 @@
             <promedio>45 + 10 /2 :v</promedio>
         </zona>
     </dia>
-    <dia id="lunes">
+    <dia id="viernes">
         <zona id="occidental">
             <maxima>45 grados</maxima>
             <minima>10 grados</minima>
@@ -82,7 +82,7 @@
             <promedio>45 + 10 /2 :v</promedio>
         </zona>
     </dia>
-    <dia id="lunes">
+    <dia id="sabado">
         <zona id="occidental">
             <maxima>45 grados</maxima>
             <minima>10 grados</minima>
@@ -98,7 +98,7 @@
             <promedio>45 + 10 /2 :v</promedio>
         </zona>
     </dia>
-    <dia id="lunes">
+    <dia id="domingo">
         <zona id="occidental">
             <maxima>45 grados</maxima>
             <minima>10 grados</minima>
