@@ -1,5 +1,5 @@
 semana {
-    background: url(/funiblog-ma-elnino-devastador.jpg);
+    background: url(/imagenes/funiblog-ma-elnino-devastador.jpg);
     display: table;
     background-size: cover;
     margin: 0px;
@@ -7,32 +7,27 @@ semana {
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
-
-
-
 }
 
 temperaturaMaxima {
     color: rgb(141, 15, 15);
     font-size: 20px;
     display: block;
-    
 }
 
 temperaturaMinima {
     color: rgb(52, 8, 173);
     font-size: 20px;
     display: block;
- 
 }
 
 temperaturaPromedio {
     color: rgb(4, 102, 20);
     font-size: 20px;
     display: block;
-    
 }
-zona{
+
+zona {
     color: rgb(8, 8, 8);
     font-size: 20px;
     display: table-row;
@@ -41,35 +36,42 @@ zona{
     text-align: center;
     opacity: 0.75;
 }
-dia{
-    display:inline-table;
+
+dia {
+    display: inline-table;
     color: rgb(250, 225, 225);
     font-size: 30px;
     border-spacing: 2px;
     border: rgb(15, 15, 15) 4px solid;
     margin: 10px;
 }
-semana{
+
+semana {
     color: rgb(87, 7, 7);
     font-size: 50px;
     display: block;
 }
-leyenda{
-    display:inline-table;
+
+leyenda {
+    display: inline-table;
     color: rgb(10, 10, 10);
     font-size: 18px;
     border-spacing: 2px;
     border: rgb(15, 15, 15) 4px solid;
     margin: 10px;
 }
-nombre{
-    display:inline-table;
+
+nombre {
+    display: inline-table;
     color: rgb(192, 189, 189);
     font-size: 30px;
     border-spacing: 2px;
     border: rgb(15, 15, 15) 4px solid;
     margin: 10px;
 }
-rojo,azul,verde{
+
+rojo,
+azul,
+verde {
     display: block;
 }
