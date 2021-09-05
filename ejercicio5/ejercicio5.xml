@@ -8,6 +8,10 @@
                <telefonoF>2297-5569</telefonoF>
                <celular>70559766</celular>
                <direccion>Soyapango San Salvardor</direccion>
+               <edad>20</edad>
+               <profesion>Estudiante</profesion>
+               <LugardeTrabajoEstudio>Universidad de El Salvador</LugardeTrabajoEstudio>
+               <TelefonodeTrabajoEstudio>2222-2222</TelefonodeTrabajoEstudio>
                <email>bf19009@ues.edu.sv</email>
 
          <categoria>Contacto 2</categoria>
@@ -15,6 +19,10 @@
                <telefonoF>2297-5569</telefonoF>
                <celular>70559766</celular>
                <direccion>Soyapango San Salvardor</direccion>
+               <edad>20</edad>
+               <profesion>Estudiante</profesion>
+               <LugardeTrabajoEstudio>Universidad de El Salvador</LugardeTrabajoEstudio>
+               <TelefonodeTrabajoEstudio>2222-2222</TelefonodeTrabajoEstudio>
                <email>bf19009@ues.edu.sv</email> 
 			   
          <categoria>Contacto 3</categoria>
@@ -22,6 +30,10 @@
                <telefonoF>2297-5568</telefonoF>
                <celular>70559769</celular>
                <direccion>Avenida tu corazon</direccion>
+               <edad>25</edad>
+               <profesion>Gerente de Ventas</profesion>
+               <LugardeTrabajoEstudio>Almacenes Siman</LugardeTrabajoEstudio>
+               <TelefonodeTrabajoEstudio>2121-2121</TelefonodeTrabajoEstudio>
                <email>elamorestuyo@gmail.com</email>   			   
 			   
 </contacto>
