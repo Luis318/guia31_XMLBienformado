@@ -97,6 +97,68 @@ direccion {
     font-family : "Gill Sans Extrabold", Helvetica, sans-serif;
 	width : 40%;
 }
+edad {
+    background-color:#909497; 
+    color: rgb(8, 8, 8);
+    font-size: 20px;
+    display: inline-table;
+    background-color: #F3FCFC;
+    padding: 25px;
+    text-align: center;
+    opacity: 0.75;
+	border-spacing: 2px;
+    border: #F3FCFC 4px solid;
+    margin: 30px;
+    font-family : "Gill Sans Extrabold", Helvetica, sans-serif;
+	width : 40%;
+}
+
+profesion {
+    background-color:#909497; 
+    color: rgb(8, 8, 8);
+    font-size: 20px;
+    display: inline-table;
+    background-color: #F3FCFC;
+    padding: 25px;
+    text-align: center;
+    opacity: 0.75;
+	border-spacing: 2px;
+    border: #F3FCFC 4px solid;
+    margin: 30px;
+    font-family : "Gill Sans Extrabold", Helvetica, sans-serif;
+	width : 40%;
+}
+
+LugardeTrabajoEstudio {
+    background-color:#909497; 
+    color: rgb(8, 8, 8);
+    font-size: 20px;
+    display: inline-table;
+    background-color: #F3FCFC;
+    padding: 25px;
+    text-align: center;
+    opacity: 0.75;
+	border-spacing: 2px;
+    border: #F3FCFC 4px solid;
+    margin: 30px;
+    font-family : "Gill Sans Extrabold", Helvetica, sans-serif;
+	width : 40%;
+}
+TelefonodeTrabajoEstudio {
+    background-color:#909497; 
+    color: rgb(8, 8, 8);
+    font-size: 20px;
+    display: inline-table;
+    background-color: #F3FCFC;
+    padding: 25px;
+    text-align: center;
+    opacity: 0.75;
+	border-spacing: 2px;
+    border: #F3FCFC 4px solid;
+    margin: 30px;
+    font-family : "Gill Sans Extrabold", Helvetica, sans-serif;
+	width : 40%;
+}
 
 email {
     background-color:#909497; 
