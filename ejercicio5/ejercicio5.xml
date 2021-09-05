@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="/estilos/ejercicio5.css" ?>
+
+<contacto >
+      <nom>Directorio telefónico</nom>
+         <categoria>Contacto 1</categoria>
+               <nombre>Jocelyn Benavides</nombre>
+               <telefonoF>2297-5569</telefonoF>
+               <celular>70559766</celular>
+               <direccion>Soyapango San Salvardor</direccion>
+               <email>bf19009@ues.edu.sv</email>
+
+         <categoria>Contacto 2</categoria>
+               <nombre>Jocelyn Benavides</nombre>
+               <telefonoF>2297-5569</telefonoF>
+               <celular>70559766</celular>
+               <direccion>Soyapango San Salvardor</direccion>
+               <email>bf19009@ues.edu.sv</email> 
+			   
+         <categoria>Contacto 3</categoria>
+               <nombre>Ella MyLove</nombre>
+               <telefonoF>2297-5568</telefonoF>
+               <celular>70559769</celular>
+               <direccion>Avenida tu corazon</direccion>
+               <email>elamorestuyo@gmail.com</email>   			   
+			   
+</contacto>
