@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <?xml-stylesheet type="text/css" href="/estilos/ejercicio4.css" ?>
 
-<semana>SEMANA
-    
+<semana>
+    <nombre>SEMANA</nombre>
     <dia id="lunes">Lunes
         
         <zona id="occidental">Occidental
@@ -37,7 +37,7 @@
             <temperaturaPromedio>0º</temperaturaPromedio>
         </zona>
     </dia>
-    <dia id="miercoles">Miercoles
+    <dia id="miercoles">Miércoles
         <zona id="occidental">Occidental
             
             <temperaturaMaxima>45 º</temperaturaMaxima>
@@ -55,7 +55,7 @@
         </zona>
     </dia>
     <dia id="jueves">Jueves
-        <zona id="occidental">Occiental
+        <zona id="occidental">Occidental
             <temperaturaMaxima>45 º</temperaturaMaxima>
             <temperaturaMinima>10 º</temperaturaMinima>
             <temperaturaPromedio>0º</temperaturaPromedio>
@@ -86,7 +86,7 @@
             <temperaturaPromedio>0º</temperaturaPromedio>
         </zona>
     </dia>
-    <dia id="sabado">Sabado
+    <dia id="sabado">Sábado
         <zona id="occidental">Occidental
             <temperaturaMaxima>45 º</temperaturaMaxima>
             <temperaturaMinima>10 º</temperaturaMinima>
@@ -118,5 +118,14 @@
             <temperaturaPromedio>0º</temperaturaPromedio>
         </zona>
     </dia>
+    <leyenda>
+        <azul>Azul: Mínima
+
+        </azul>
+        <rojo>Rojo: Máxima
+
+        </rojo>
+        <verde>Verde: Promedio</verde>
+    </leyenda>
     
 </semana>
