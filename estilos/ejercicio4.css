@@ -39,6 +39,7 @@ zona{
     background-color: rgb(224, 188, 188);
     padding: 2px;
     text-align: center;
+    opacity: 0.75;
 }
 dia{
     display:inline-table;
