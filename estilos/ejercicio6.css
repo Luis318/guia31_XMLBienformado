@@ -1,0 +1,86 @@
+/* Ejercicio6.css   BE17005  */
+
+estudiante{
+    background: url(/imagenes/img2.jpg) center;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: arial, helvetica, roboto, "new times roman", lato;
+}
+datos{
+    margin-left: 25px;
+    font-size: 20px;
+    color: aliceblue;
+}
+apellidosE{
+    margin-left: 25px;
+    display: block;
+}
+carnetE{
+    margin-left: 25px;
+}
+listadoE{
+    margin-left: 25px;
+    display: block;
+}
+titulo1{
+    color: #fffb87;
+    text-align: center;
+    display: block;
+}
+titulo2{
+    color:#00c8ff;
+    text-align: center;
+    display: block;
+}
+titulo3{
+    color:#0eff70;
+    text-align: center;
+    display: block;
+}
+materias{
+    font-size: 25px;
+}
+materia1{
+    background-color: #fffb87;
+    margin-left: 450px;
+    margin-right: 450px;
+    border: 3.6px solid;
+    display: block;
+}
+codigo1{
+    display: block;
+}
+dia1{
+    display: block;
+}
+
+materia2{
+    background-color: #00c8ff;
+    margin-left: 450px;
+    margin-right: 450px;
+    border: 3.6px solid;
+    display: block;
+}
+codigo2{
+    display: block;
+}
+dia2{
+    display: block;
+}
+
+materia3{
+    background-color: #0eff70;
+    margin-left: 450px;
+    margin-right: 450px;
+    border: 3.6px solid;
+    display: block;
+}
+codigo3{
+    display: block;
+}
+dia3{
+    display: block;
+}
+
+
+

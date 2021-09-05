@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- ejercicio6.xml -->
+<?xml-stylesheet type="text/css" href="estilos/ejercicio6.css" ?>
+<estudiante>
+<datos>
+
+<nombreE>Nombre del Estudiante: Juan Daniel</nombreE>
+<apellidosE>Apellidos del Estudiante: Guerrera Alegria</apellidosE>
+<carnetE>#Carnet: GL20005</carnetE>
+<listadoE>#Lista: 38</listadoE>
+</datos>
+
+<materias>
+<titulo1>Primera Materia</titulo1>
+<materia1>
+<codigo1>Codigo: FIR315</codigo1>
+<nombre1>Nombre: Fisica3</nombre1>
+<horarioT1>
+<dia1>Teorico: Martes y viernes, hora: 8:05a.m-9:50a.m</dia1>
+</horarioT1>
+<horarioL1>
+<dia11>Laboratorio: Viernes, hora:8:05a.m-9:40a.m</dia11>
+</horarioL1>
+</materia1>
+
+<titulo2>Segunda Materia</titulo2>
+<materia2>
+<codigo2>Codigo: PYE115</codigo2>
+<nombre2>Nombre: Probabilidad y Estadística</nombre2>
+<horarioT2>
+<dia2>Teorico: Lunes y miércoles, hora:6:20a.m-8:05a.m</dia2>
+</horarioT2>
+<horarioL2>
+<dia2>Laboratorio: Martes, hora:9:50a.m-11:30a.m</dia2>
+</horarioL2>
+</materia2>
+
+<titulo3>Tercera Materia</titulo3>
+<materia3>
+<codigo3>Codigo: FDE115</codigo3>
+<nombre3>Nombre: Fundamentos de Economía</nombre3>
+<horarioT3>
+<dia3>Teorico: Martes y viernes, hora:11:35a.m-13:15p.m</dia3>
+</horarioT3>
+<horarioL3>
+<dia>Laboratorio: Lunes, hora:8:05a.m-9:45a.m</dia>
+</horarioL3>
+</materia3>
+
+</materias>
+
+
+</estudiante>
