@@ -7,115 +7,115 @@
         
         <zona id="occidental">Occidental
             
-            <temperaturaMaxima>45º</temperaturaMaxima>
-            <temperaturaMinima>10 º</temperaturaMinima>
-            <temperaturaPromedio>0º</temperaturaPromedio>
+            <temperaturaMaxima>33º</temperaturaMaxima>
+            <temperaturaMinima>20º</temperaturaMinima>
+            <temperaturaPromedio>26.5º</temperaturaPromedio>
         </zona>
         <zona id="oriental">Oriental
-            <temperaturaMaxima>45 º</temperaturaMaxima>
-            <temperaturaMinima>10 º</temperaturaMinima>
-            <temperaturaPromedio>0º</temperaturaPromedio>
+            <temperaturaMaxima>34º</temperaturaMaxima>
+            <temperaturaMinima>26º</temperaturaMinima>
+            <temperaturaPromedio>25º</temperaturaPromedio>
         </zona><zona id="central">Central
-            <temperaturaMaxima>45 º</temperaturaMaxima>
-            <temperaturaMinima>10 º</temperaturaMinima>
-            <temperaturaPromedio>0º</temperaturaPromedio>
+            <temperaturaMaxima>28º</temperaturaMaxima>
+            <temperaturaMinima>22º</temperaturaMinima>
+            <temperaturaPromedio>25º</temperaturaPromedio>
         </zona>
     </dia>
     <dia id="martes">Martes
         <zona id="occidental">Occidental
-            <temperaturaMaxima>45 º</temperaturaMaxima>
-            <temperaturaMinima>10 º</temperaturaMinima>
-            <temperaturaPromedio>0º</temperaturaPromedio>
+            <temperaturaMaxima>32º</temperaturaMaxima>
+            <temperaturaMinima>21º</temperaturaMinima>
+            <temperaturaPromedio>26.5º</temperaturaPromedio>
         </zona>
         <zona id="oriental">Oriental
-            <temperaturaMaxima>45 º</temperaturaMaxima>
-            <temperaturaMinima>10 º</temperaturaMinima>
-            <temperaturaPromedio>0º</temperaturaPromedio>
+            <temperaturaMaxima>34º</temperaturaMaxima>
+            <temperaturaMinima>24º</temperaturaMinima>
+            <temperaturaPromedio>29º</temperaturaPromedio>
         </zona><zona id="central">Central
-            <temperaturaMaxima>45 º</temperaturaMaxima>
-            <temperaturaMinima>10 º</temperaturaMinima>
-            <temperaturaPromedio>0º</temperaturaPromedio>
+            <temperaturaMaxima>28º</temperaturaMaxima>
+            <temperaturaMinima>21º</temperaturaMinima>
+            <temperaturaPromedio>24.5º</temperaturaPromedio>
         </zona>
     </dia>
     <dia id="miercoles">Miércoles
         <zona id="occidental">Occidental
             
-            <temperaturaMaxima>45 º</temperaturaMaxima>
-            <temperaturaMinima>10 º</temperaturaMinima>
-            <temperaturaPromedio>0º</temperaturaPromedio>
+            <temperaturaMaxima>33º</temperaturaMaxima>
+            <temperaturaMinima>22º</temperaturaMinima>
+            <temperaturaPromedio>27.5º</temperaturaPromedio>
         </zona>
         <zona id="oriental">Oriental
-            <temperaturaMaxima>45 º</temperaturaMaxima>
-            <temperaturaMinima>10 º</temperaturaMinima>
-            <temperaturaPromedio>0º</temperaturaPromedio>
+            <temperaturaMaxima>33º</temperaturaMaxima>
+            <temperaturaMinima>23º</temperaturaMinima>
+            <temperaturaPromedio>28º</temperaturaPromedio>
         </zona><zona id="central">Central
-            <temperaturaMaxima>45 º</temperaturaMaxima>
-            <temperaturaMinima>10 º</temperaturaMinima>
-            <temperaturaPromedio>0º</temperaturaPromedio>
+            <temperaturaMaxima>25º</temperaturaMaxima>
+            <temperaturaMinima>20º</temperaturaMinima>
+            <temperaturaPromedio>22.5º</temperaturaPromedio>
         </zona>
     </dia>
     <dia id="jueves">Jueves
         <zona id="occidental">Occidental
-            <temperaturaMaxima>45 º</temperaturaMaxima>
-            <temperaturaMinima>10 º</temperaturaMinima>
-            <temperaturaPromedio>0º</temperaturaPromedio>
+            <temperaturaMaxima>24º</temperaturaMaxima>
+            <temperaturaMinima>22º</temperaturaMinima>
+            <temperaturaPromedio>23º</temperaturaPromedio>
         </zona>
         <zona id="oriental">Oriental
-            <temperaturaMaxima>45 º</temperaturaMaxima>
-            <temperaturaMinima>10 º</temperaturaMinima>
-            <temperaturaPromedio>0º</temperaturaPromedio>
+            <temperaturaMaxima>32º</temperaturaMaxima>
+            <temperaturaMinima>22º</temperaturaMinima>
+            <temperaturaPromedio>27º</temperaturaPromedio>
         </zona><zona id="central">Central
-            <temperaturaMaxima>45 º</temperaturaMaxima>
-            <temperaturaMinima>10 º</temperaturaMinima>
-            <temperaturaPromedio>0º</temperaturaPromedio>
+            <temperaturaMaxima>24º</temperaturaMaxima>
+            <temperaturaMinima>20º</temperaturaMinima>
+            <temperaturaPromedio>22º</temperaturaPromedio>
         </zona>
     </dia>
     <dia id="viernes">Viernes
         <zona id="occidental">Occidental
-            <temperaturaMaxima>45 º</temperaturaMaxima>
-            <temperaturaMinima>10 º</temperaturaMinima>
-            <temperaturaPromedio>0º</temperaturaPromedio>
+            <temperaturaMaxima>26º</temperaturaMaxima>
+            <temperaturaMinima>23º</temperaturaMinima>
+            <temperaturaPromedio>24.5º</temperaturaPromedio>
         </zona>
         <zona id="oriental">Oriental
-            <temperaturaMaxima>45 º</temperaturaMaxima>
-            <temperaturaMinima>10 º</temperaturaMinima>
-            <temperaturaPromedio>0º</temperaturaPromedio>
+            <temperaturaMaxima>30º</temperaturaMaxima>
+            <temperaturaMinima>23º</temperaturaMinima>
+            <temperaturaPromedio>26.5º</temperaturaPromedio>
         </zona><zona id="central">Central
-            <temperaturaMaxima>45 º</temperaturaMaxima>
-            <temperaturaMinima>10 º</temperaturaMinima>
-            <temperaturaPromedio>0º</temperaturaPromedio>
+            <temperaturaMaxima>28º</temperaturaMaxima>
+            <temperaturaMinima>25º</temperaturaMinima>
+            <temperaturaPromedio>26.5º</temperaturaPromedio>
         </zona>
     </dia>
     <dia id="sabado">Sábado
         <zona id="occidental">Occidental
-            <temperaturaMaxima>45 º</temperaturaMaxima>
-            <temperaturaMinima>10 º</temperaturaMinima>
-            <temperaturaPromedio>0º</temperaturaPromedio>
+            <temperaturaMaxima>30º</temperaturaMaxima>
+            <temperaturaMinima>26º</temperaturaMinima>
+            <temperaturaPromedio>28º</temperaturaPromedio>
         </zona>
         <zona id="oriental">Oriental
-            <temperaturaMaxima>45 º</temperaturaMaxima>
-            <temperaturaMinima>10 º</temperaturaMinima>
-            <temperaturaPromedio>0º</temperaturaPromedio>
+            <temperaturaMaxima>29º</temperaturaMaxima>
+            <temperaturaMinima>23º</temperaturaMinima>
+            <temperaturaPromedio>26º</temperaturaPromedio>
         </zona><zona id="central">Central
-            <temperaturaMaxima>45 º</temperaturaMaxima>
-            <temperaturaMinima>10 º</temperaturaMinima>
-            <temperaturaPromedio>0º</temperaturaPromedio>
+            <temperaturaMaxima>28º</temperaturaMaxima>
+            <temperaturaMinima>24º</temperaturaMinima>
+            <temperaturaPromedio>26º</temperaturaPromedio>
         </zona>
     </dia>
     <dia id="domingo">Domingo
         <zona id="occidental">Occidental
-            <temperaturaMaxima>45 º</temperaturaMaxima>
-            <temperaturaMinima>10 º</temperaturaMinima>
-            <temperaturaPromedio>0º</temperaturaPromedio>
+            <temperaturaMaxima>26º</temperaturaMaxima>
+            <temperaturaMinima>22º</temperaturaMinima>
+            <temperaturaPromedio>24º</temperaturaPromedio>
         </zona>
         <zona id="oriental">Oriental
-            <temperaturaMaxima>45 º</temperaturaMaxima>
-            <temperaturaMinima>10 º</temperaturaMinima>
-            <temperaturaPromedio>0º</temperaturaPromedio>
+            <temperaturaMaxima>29º</temperaturaMaxima>
+            <temperaturaMinima>23º</temperaturaMinima>
+            <temperaturaPromedio>26º</temperaturaPromedio>
         </zona><zona id="central">Central
-            <temperaturaMaxima>45 º</temperaturaMaxima>
-            <temperaturaMinima>10 º</temperaturaMinima>
-            <temperaturaPromedio>0º</temperaturaPromedio>
+            <temperaturaMaxima>27º</temperaturaMaxima>
+            <temperaturaMinima>24º</temperaturaMinima>
+            <temperaturaPromedio>25.5º</temperaturaPromedio>
         </zona>
     </dia>
     <leyenda>
